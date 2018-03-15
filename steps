@@ -8,3 +8,5 @@ Return to the Linux machine and issue the git pull command from within your repo
 Delete (rm) the text file you are working with.
 Use git checkout to restore the deleted file.
 Follow this tutorial to enable access to the repository over SSH.
+
+There are a lot more steps than you initially thought
